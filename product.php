@@ -10,14 +10,24 @@ include "inc/header.php"
         <h2>
           Our Product
         </h2>
-        <p>
-We are provide following orgnic product        </p>
+        <p>We are provide following orgnic product</p>
+      </div>
+      <div class="row">
+          <div class="col-xl-12 col-sm-6 ">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/products/organic_fertilizer.jpg" height="350px" alt="">
+            </div>
+          </div>
+        </div>
       </div>
       <div class="row">
         <div class="col-xl-3 col-sm-6 ">
           <div class="box">
             <div class="img-box">
-              <img src="images/products/product-1.png" height="350px" alt="">
+              <a href="images/products/product_1.jpg" target="_blank">
+              <img src="images/products/product_1.jpg" height="350px" alt="">
+              </a>
             </div>
             <div class="social_box">
               <a href="">
@@ -46,7 +56,9 @@ We are provide following orgnic product        </p>
         <div class="col-xl-3 col-sm-6 ">
           <div class="box">
             <div class="img-box">
-              <img src="images/products/product-2.png" height="350px" alt="">
+              <a href="images/products/product_2.jpg" target="_blank">
+              <img src="images/products/product_2.jpg" height="350px" alt="">
+              </a>
             </div>
             <div class="social_box">
               <a href="">
@@ -75,7 +87,9 @@ We are provide following orgnic product        </p>
         <div class="col-xl-3 col-sm-6 ">
           <div class="box">
             <div class="img-box">
-              <img src="images/products/product-3.png" height="350px" alt="">
+              <a href="images/products/product_3.jpg" target="_blank">
+              <img src="images/products/product_3.jpg" height="350px" alt="">
+              </a>
             </div>
             <div class="social_box">
               <a href="">
@@ -104,7 +118,9 @@ We are provide following orgnic product        </p>
         <div class="col-xl-3 col-sm-6 ">
           <div class="box">
             <div class="img-box">
-              <img src="images/products/product-4.png" height="350px" alt="">
+              <a href="images/products/product_4.jpg" target="_blank">
+              <img src="images/products/product_4.jpg" height="350px" alt="">
+              </a>
             </div>
             <div class="social_box">
               <a href="">
@@ -133,7 +149,9 @@ We are provide following orgnic product        </p>
           <div class="col-xl-3 col-sm-6 ">
           <div class="box">
             <div class="img-box">
-              <img src="images/products/product-5.png" height="350px" alt="">
+              <a href="images/products/product_5.jpg" target="_blank">
+              <img src="images/products/product_5.jpg" height="350px" alt="">
+              </a>
             </div>
             <div class="social_box">
               <a href="">
