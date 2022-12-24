@@ -8,7 +8,7 @@ include "inc/header.php"
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Our Product
+          Our Organic Products
         </h2>
         <p>We are provide following orgnic product</p>
       </div>
